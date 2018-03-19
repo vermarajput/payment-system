@@ -34,8 +34,12 @@ The server can be started directly from the JAR file:
 The server will start on port `8080` by default.
 
 ## API documentation
-##### TODO 
 The API is documented using Swagger V2.
+
+http://localhost:8080/swagger-ui.html#!/subscription-controller/createSubscriptionUsingPOST
+
+
+![Swagger Documentation](images/SwaggerUI.png)
 
 ### Setting the Right Profile
 
