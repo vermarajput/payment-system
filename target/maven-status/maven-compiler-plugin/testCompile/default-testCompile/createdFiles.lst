@@ -1,6 +1,0 @@
-com\av\repository\SubscriptionRepositoryTest.class
-com\av\repository\SubscriptionRepositoryUtilTest.class
-com\av\repository\persistor\InternalStorageSubscriptionPersisterTest.class
-com\av\repository\TestData.class
-com\av\repository\validator\RequestValidatorImplTest.class
-com\av\integration\IntegrationCreateSubscriptionTest.class
