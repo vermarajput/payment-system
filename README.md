@@ -18,8 +18,11 @@ A spring boot based REST service for creating payment subscriptions and respondi
 |---|---|---|
 |Java JDK 1.8.0_131 or later|Used running the application.|
 
-## Build and acceptance testing
+## Build
 `mvn package`
+
+### Acceptance testing
+TODO Cucumber to be used for Acceptance testing
 
 ## Starting the server
 
@@ -38,7 +41,7 @@ The API is documented using Swagger V2.
 
 http://localhost:8080/swagger-ui.html#!/subscription-controller/createSubscriptionUsingPOST
 
-![Swagger Documentation](images/swagger.png)
+![Swagger Documentation](images\swagger.png)
 
 ### Setting the Right Profile
 
