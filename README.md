@@ -38,8 +38,7 @@ The API is documented using Swagger V2.
 
 http://localhost:8080/swagger-ui.html#!/subscription-controller/createSubscriptionUsingPOST
 
-
-![Swagger Documentation](images/SwaggerUI.png)
+![Swagger Documentation](images/swagger.png)
 
 ### Setting the Right Profile
 
